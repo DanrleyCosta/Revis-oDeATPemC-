@@ -1,0 +1,7 @@
+C:\Users\walmart\source\repos\AEDLab7\AEDLab7\bin\Debug\AEDLab7.exe.config
+C:\Users\walmart\source\repos\AEDLab7\AEDLab7\bin\Debug\AEDLab7.exe
+C:\Users\walmart\source\repos\AEDLab7\AEDLab7\bin\Debug\AEDLab7.pdb
+C:\Users\walmart\source\repos\AEDLab7\AEDLab7\obj\Debug\AEDLab7.csprojResolveAssemblyReference.cache
+C:\Users\walmart\source\repos\AEDLab7\AEDLab7\obj\Debug\AEDLab7.csproj.CoreCompileInputs.cache
+C:\Users\walmart\source\repos\AEDLab7\AEDLab7\obj\Debug\AEDLab7.exe
+C:\Users\walmart\source\repos\AEDLab7\AEDLab7\obj\Debug\AEDLab7.pdb
