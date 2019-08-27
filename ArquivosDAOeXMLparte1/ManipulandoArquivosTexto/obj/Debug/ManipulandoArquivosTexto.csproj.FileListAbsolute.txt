@@ -1,0 +1,20 @@
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.exe.config
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.exe
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.pdb
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csprojAssemblyReference.cache
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.Properties.Resources.resources
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csproj.GenerateResource.cache
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csproj.CoreCompileInputs.cache
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.exe
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.pdb
+C:\Users\1001619\source\repos\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.Form1.resources
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.exe.config
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.exe
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.pdb
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csprojAssemblyReference.cache
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.Form1.resources
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.Properties.Resources.resources
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csproj.GenerateResource.cache
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csproj.CoreCompileInputs.cache
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.exe
+U:\Atividades AED\Atividade Manipulando\ManipulandoArquivosTexto\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.pdb
